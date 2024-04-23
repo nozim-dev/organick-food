@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Rosario:ital,wght@0,300..700;1,300..700&display=swap");
+
+:root {
+  --font-Rosario: "Rosario";
+  --font-DmSans: "DM Sans";
+  --color-green-500: #09a66d;
+  --color-black-700: #222222;
+  --color-black-300: #555555;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-green-50: #f3fbf8;
+}
